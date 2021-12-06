@@ -9,4 +9,5 @@ Nothing, do not run this script, doing so will generate a file with all names th
 
 ## Sources
 First Names: https://github.com/rossgoodwin/american-names/raw/master/firstnames_m.json
+
 Last Names: https://api.census.gov
